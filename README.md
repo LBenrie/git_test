@@ -1,0 +1,1 @@
+This Bernie's first git project
